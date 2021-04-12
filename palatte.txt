@@ -1,0 +1,5 @@
+#030f33 Background
+#f1a9a0 Peach
+#ff7f50
+#FC6399
+#00FFFF

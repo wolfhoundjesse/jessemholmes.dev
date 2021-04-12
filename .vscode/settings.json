@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": true,
+  "eslint.validate": ["javascript"],
+  "emmet.includeLanguages": {
+    "njk": "html"
+  }
+}
